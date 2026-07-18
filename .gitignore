@@ -1,0 +1,16 @@
+# OS Junk files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Environment variables & secrets
+.env
+.env.*
+*.log
+credentials.json
+
+# Local IDE settings
+.vscode/
+.idea/
