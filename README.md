@@ -42,6 +42,8 @@ To import and run this workflow in your own environment:
 4. Open the OpenAI node and link your OpenAI API credentials.
 5. Open the main system prompt node and replace the text inside with your own curated website or business data summary.
 6. Toggle the workflow to **Active**!
+7. go to tiiny.host website and upload the ai-chatbot-widget.html on it, after that the html page will be live for demo.
+8. Copy or open the URL given by tinny.host website and test the chatbot.
 
 ---
 
