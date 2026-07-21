@@ -5,7 +5,11 @@ A production-ready, low-latency AI chatbot workflow built using **n8n** and **Op
 The result is an incredibly fast, highly cost-optimized assistant that delivers 100% accurate responses grounded strictly in curated campus data.
 
 ---
+## 🛠️ System Architecture Diagram
 
+![n8n Chatbot Workflow Canvas](chatbot-image.png)
+
+---
 ## 🚀 How It Works
 
 Instead of dynamically querying a database on every user message, this workflow leverages the massive context windows of modern LLMs:
