@@ -7,8 +7,7 @@ The result is an incredibly fast, highly cost-optimized assistant that delivers 
 ---
 ## 🛠️ System Architecture Diagram
 
-![n8n Chatbot Workflow Canvas](chatbot-image.png)
-
+![n8n Chatbot Workflow Canvas](Chatbot-image.png)
 ---
 ## 🚀 How It Works
 
